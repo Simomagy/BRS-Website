@@ -38,7 +38,7 @@ gsap.registerPlugin(ScrollTrigger);
 const galleryImages = [
   {
     id: "desktop-1",
-    src: "/Demo.png",
+    src: "/Demo3.png",
     alt: "BRS Desktop Application - Main Interface",
     title: "Desktop Application",
     description: "Complete render management suite with advanced controls",
@@ -338,7 +338,7 @@ export default function Home() {
                   <Image
                     alt="BRS Desktop App"
                     className="shadow-2xl shadow-neutral-50/20 rounded-lg w-full max-w-2xl transition-transform duration-300 group-hover:scale-105"
-                    src="/Demo.png"
+                    src="/Demo3.png"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 rounded-lg flex items-center justify-center">
                     <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-primary/90 rounded-full p-3">
