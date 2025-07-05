@@ -4,7 +4,8 @@ export const siteConfig = {
   name: "BRS",
   description: "Manage your Blender renders intelligently.",
   links: {
-    github: "https://github.com/Nebula-Studios-Software/BRS",
-    download: "https://github.com/Nebula-Studios-Software/BRS/releases",
+    github: "https://github.com/Simomagy/BRS",
+    website: "https://nebulastudio.dev",
+    download: "https://www.nebulastudio.dev/en/projects/blender-render-suite",
   },
 };
